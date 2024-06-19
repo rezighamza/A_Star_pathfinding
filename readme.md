@@ -42,13 +42,13 @@ Prepare the grid file: Create a .in file (e.g., grid.in) with the grid layout. E
 Here is an example of how to use the A* algorithm with a grid file.
 
 Grid File (grid.in)
-
+`
 0 1 0 0 0
 0 1 0 1 0
 0 0 0 1 0
 0 1 0 0 0
 0 0 0 0 0
-
+`
 
 ## Running the Example
 Ensure grid.in is in the same directory as astar.py. Run the script:
