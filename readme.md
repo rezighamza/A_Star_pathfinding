@@ -23,11 +23,12 @@ The A* algorithm is a popular pathfinding and graph traversal algorithm used in 
 
 ## Installation
 
+
+
 Clone the repository to your local machine using:
 
-```sh
-git clone https://github.com/yourusername/astar-pathfinding.git
-cd astar-pathfinding
+`git clone https://github.com/yourusername/astar-pathfinding.git`
+`cd astar-pathfinding`
 
 Ensure you have Python installed. This code is compatible with Python 3.
 
