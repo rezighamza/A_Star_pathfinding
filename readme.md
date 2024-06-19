@@ -43,11 +43,7 @@ Here is an example of how to use the A* algorithm with a grid file.
 
 Grid File (grid.in)
 ` 
-0 1 0 0 0
-0 1 0 1 0
-0 0 0 1 0
-0 1 0 0 0
-0 0 0 0 0
+0 1 0 0 0 | 0 1 0 1 0 | 0 0 0 1 0 | 0 1 0 0 0 | 0 0 0 0 0
 `
 
 ## Running the Example
